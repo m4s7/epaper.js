@@ -8,6 +8,7 @@ node_modules/
 build/
 dist/
 lib/
+stuff/
 tsconfig.tsbuildinfo
 .pnpm-store/
 .pnpm-debug.log
